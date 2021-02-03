@@ -38,13 +38,13 @@ int piso = 0;
 int contadorMediciones = 0;
 
 
-#define WIFI_AP             "MOVISTAR_2D54"
-#define WIFI_PASSWORD       "UuQZR7W9uh8TEB6osc2X"
+#define WIFI_AP             ""
+#define WIFI_PASSWORD       ""
 
 // See https://thingsboard.io/docs/getting-started-guides/helloworld/
 // to understand how to obtain an access token
-#define TOKEN               "jxEobjqTLBcKQs3pzK53"//"psfR3NWLbMHRtwzyWTGS"
-#define THINGSBOARD_SERVER    "demo.thingsboard.io"//"iot.etsisi.upm.es"
+#define TOKEN               "psfR3NWLbMHRtwzyWTGS"
+#define THINGSBOARD_SERVER   "iot.etsisi.upm.es"
 
 // Baud rate for debug serial
 #define SERIAL_DEBUG_BAUD   115200
